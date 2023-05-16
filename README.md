@@ -2,7 +2,7 @@
 
 During my 4th semester i felt the need to delve into a bit of hands on machine learning but this time i wanted to develop something new from the ground up instead of doing another one of those typical machine learning projects that you see everybody doing.
 
-So i reached out to one of my professors and she provided me with a csv file that i could try to classify.
+So i reached out to one of my professors and she provided me with a csv file (colon - labled-1.csv) that i could try to classify.
 
 So the target class of the csv file was either normal or abnormal and the aim was to train a Machine Learning Model that could classify a given gene into one of those two classes with a good accuracy.
 
