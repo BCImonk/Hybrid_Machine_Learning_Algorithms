@@ -24,3 +24,12 @@ The first thing I did to improve on my previous code was to include __K-cross va
 I applied K-cross validation in a different (better) way in my subsequent codes and hence I named those files as '_'-2; I applied this using several different libraries to see the accuracy that could be achieved and the results were interesting to say the least :P
 
 _'mRMR_ABC_with_SVM_and_K_Cross_Validation_.ipynb'_ is the file where I tried to implement my best model along with an optimizer but its still a work in progress and you can expect me to update it every now and then.
+
+
+## Acknowledgements
+
+ - __[Nature-Inspired Computation and Swarm Intelligence by Xin-She Yang](https://www.elsevier.com/books/nature-inspired-computation-and-swarm-intelligence/yang/978-0-12-819714-1)__
+ 
+ - __[mRMR-ABC: A Hybrid Gene Selection Algorithm for Cancer Classification Using Microarray Gene Expression Profiling](https://www.hindawi.com/journals/bmri/2015/604910/)__
+
+
