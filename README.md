@@ -19,3 +19,9 @@ Perhaps we could also overcome the limitation of most classification problem - S
 
 ## The Outcome
 
+The first thing I did to improve on my previous code was to include K-cross validation and mRMR(Minimum Redundancy Maximum Relevance) in all of my subsequent codes to improve accuracy and decrease chances of overfitting.
+
+I applied K-cross validation in a different (better) way in my subsequent codes and hence I named those files as '_'-2; I applied this using several different libraries to see the accuracy that could be achieved and the results were interesting to say the least :P
+
+'mRMR_ABC_with_SVM_and_K_Cross_Validation_.ipynb' is the file where I tried to 
+
